@@ -8,7 +8,7 @@ body{
     width: 50%;
     height: 1000px;
     background-color: rgb(182, 179, 179); 
-    padding: 15px; 
+    padding: 15px;
 }
 .right{
     width: 20%;
@@ -19,7 +19,10 @@ body{
 }
 .head{
     color: rgb(26, 4, 57);
-    
+    background-color: rgb(115, 157, 173);
+    padding-top: 15px;
+    padding-left: 25px;
+    padding-bottom: 15px;
     
 }
 .heading1{
