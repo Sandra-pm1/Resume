@@ -30,5 +30,7 @@ body{
     color: rgb(107, 106, 106);
 }
 .images{
-    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    
 }
